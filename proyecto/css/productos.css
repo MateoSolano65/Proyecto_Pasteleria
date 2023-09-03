@@ -27,8 +27,8 @@ body {
   }
   
   .close-button {
-    background-color: #3D3D3D;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
@@ -109,3 +109,17 @@ body {
     width: 100%;
     background-color: black;
   }
+  .pasteles{
+    color: #C3C3C3;
+  }
+  .personalizacion-button {
+    background-color: #3D3D3D;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  
+  
